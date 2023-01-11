@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    
+
+}
+
+h1{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+div{
+    width: 85%;
+    background-color: #fff;
+    padding: 3em;
+    box-shadow: 0 0 2.2em 
+    rgba (0,0,0 .2);
+
+}
+
+body{
+background-color: #f2f2f2;
+
+}
+
+.centralizar{
+    margin: auto;
+}
+
+header{
+    text-align: center;
+}
+
+header ul{
+    margin-top: 15px;
+}
+
+header li{
+    list-style-type: none;
+    display: inline-block;
+    font-size: 2em;
+    margin-right: 2em;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+header li:last-child{ margin-right: 0;}
+
+header a{
+    text-decoration: none;
+    color: black;
+   
+}
+
+hr{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+main{
+    margin-top: 4em;
+
+}
+
+article img{
+    width: 250px;
+}
+
+p{
+    margin-top: 9px;
+}
+
+.banner{
+    width: 1050px;
+    margin-top: 25px;
+}
+
+#camisa .conteudo img{
+    display: inline-block; 
+    width: 240px;
+  margin-right: 20px;
+  border: 2px solid black;
+  border-radius: 20px;
+  
+  }
+  
+  #camisa .conteudo .descricao{
+    display: inline-block;
+    width: auto;
+    padding: 0;
+    font-size: 15px;
+    align-items:center;
+
+  }
+  
+#casacos .conteudo img{
+    display: inline-block; 
+    width: 230px;
+  margin-right: 20px;
+  border: 2px solid black;
+  border-radius: 20px;
+  
+}
+
+#casacos .conteudo .descricao{
+    display: inline-block;
+    width: auto;
+    padding: 0;
+    font-size: 15px;
+    align-items:center;
+
+}
+
+#calça .conteudo img{
+    display: inline-block; 
+    width: 240px;
+  margin-right: 20px;
+  border: 2px solid black;
+  border-radius: 20px;
+  
+}
+
+#calça .conteudo .descricao{
+    display: inline-block;
+    width: auto;
+    padding: 0;
+    font-size: 15px;
+    align-items:center;
+}
+  
